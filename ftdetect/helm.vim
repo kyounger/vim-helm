@@ -1,1 +1,1 @@
-autocmd BufRead,BufNewFile */templates/*.yaml,*/templates/*.tpl set ft=helm
+autocmd BufRead,BufNewFile */templates/*.yaml,*.gotmpl,*/templates/*.tpl set ft=helm
